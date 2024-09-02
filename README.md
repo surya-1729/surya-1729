@@ -1,6 +1,6 @@
 - Hi, I’m Surya 👋 
 - 👀 I’m learning to make the computer learn
-- 🌱 I’m currently working on Deep Learning, Computer Vision of 2D and 3D data.
+- 🌱 I’m currently working on Deep Learning, Computer Vision of 2D and 3D data, exploring NLP and LLM territory.
 - 💞️ I’m looking to collaborate on Projects with these skills.
 - 📫 How to reach me ... connect to me at asvp.0296@gmail.com
 
