@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm Surya Vara Prasad Alla
+# Hi there! 👋 I'm Surya Alla
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Software+Engineer;LLM+Integration+Specialist;Production+AI+Deployment+Expert;GenAI+Enablement+Coach)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Software+Engineer;LLM+Integration+Specialist;Production+AI+Deployment+Expert;Computer+Vision+Engineer)](https://git.io/typing-svg)
 
 </div>
 
