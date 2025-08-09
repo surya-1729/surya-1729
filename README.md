@@ -131,4 +131,6 @@ class AIEngineerSurya:
                 "Performance Optimization & Scaling"
             ],
             "achievements": [
-                "Reduced document processing latency from 30s
+                "Reduced document processing latency from 30
+            ]
+            }
