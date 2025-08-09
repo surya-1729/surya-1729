@@ -22,7 +22,7 @@
 
 I'm an **AI Software Engineer** with 2+ years of experience turning cutting-edge AI research into production-ready solutions. I specialize in **LLM integration**, **developer enablement**, and **scalable AI deployment** - focusing on making AI accessible and developer-friendly rather than just model training.
 
-Currently working as a **Computer Vision & AI Engineer** at **Fraunhofer FIT**, where I lead GenAI enablement initiatives and coach development teams in LLM integration best practices for medical AI applications.
+Currently working as a **Computer Vision & AI Engineer** at **Fraunhofer FIT**, where I contribute to GenAI enablement initiatives and coach development teams in LLM integration best practices for medical AI applications. I contributed previously on text and image processing pipelines.
 
 ### 🎯 What I Do Best
 - 🤖 **LLM Integration & Production Deployment** - Building scalable AI-powered applications
