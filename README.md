@@ -2,7 +2,7 @@
 
 AI Software Engineer based in Siegen, Germany
 
-[LinkedIn](https://linkedin.com/in/aisuryaalla) • [Medium](https://medium.com/@asvp.0296) • [Email](mailto:asvp.0296@gmail.com)
+[LinkedIn](https://linkedin.com/in/aisuryaalla) • [Medium](https://suryaalla.medium.com/) • [Email](mailto:asvp.0296@gmail.com)
 
 ## About
 
