@@ -1,11 +1,3 @@
-# Surya Alla
-
-AI Software Engineer based in Siegen, Germany
-
-[LinkedIn](https://linkedin.com/in/aisuryaalla) • [Medium](https://suryaalla.medium.com/) • [Email](mailto:asvp.0296@gmail.com)
-
-## About
-
 I'm an AI Software Engineer with 2+ years of experience building production AI systems. Currently working at Fraunhofer FIT as a Computer Vision & AI Engineer, where I focus on GenAI enablement and help development teams integrate LLMs into medical AI applications.
 
 I specialize in taking AI research and turning it into scalable, production-ready solutions. My work centers on LLM integration, developer enablement, and building AI systems that actually work in the real world.
