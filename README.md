@@ -26,10 +26,6 @@ Scalable infrastructure for multiple LLM providers with dynamic model selection,
 **[3D Mesh Analysis & Medical Imaging](https://github.com/surya-1729/Gaussian-curvature-of-a-3D-triangular-mesh)**
 3D geometry processing tools and CT reconstruction implementations for medical imaging applications.
 
-## Experience
-
-Currently working on GenAI enablement initiatives at Fraunhofer FIT, where I coach development teams on LLM integration best practices and contribute to text and image processing pipelines for medical AI applications.
-
 ---
 
 *Building AI systems that work in production, not just in demos.*
