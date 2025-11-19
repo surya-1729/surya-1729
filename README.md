@@ -1,1 +1,2 @@
-I'm an AI Software Engineer with 2+ years of experience building production AI systems. Currently working at HSHL and Fraunhofer FIT collaboration as a Computer Vision & AI Engineer. I have been implementing key data extraction solutions for multiple forms of data like images, texts in various domains for example medical usecase, foot industry, embedded software domain, poultry industry. I have been exploring more in RAG, Chatbots for internal use. 
+A driven machine learning engineer with 3 years of hands-on experience specializing in Data Science, Computer Vision, and Software Development. Proven
+expertise in algorithm design, deep learning model development, and scalable deployment on cloud architectures.
